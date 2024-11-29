@@ -12,12 +12,20 @@ Para obtener los archivos necesarios para el workshop, sigue estos pasos:
 4.	Cambia al directorio del repositorio:\
     `cd stucom_workshop`
 
+Alternativamente, puedes descargar el repositorio como un **ZIP Zile**:
+
+1.  Accede al GitHub del repositorio:\
+    `git clone https://github.com/LuchoGabba/stucom_workshop.git`
+2.	Presiona el botón verde `<> Code`
+3.  Selecciona `Download ZIP`
+
+
 ## Antes del Primer Encuentro
 
 Organiza el espacio de trabajo:
 
-1. Abra el Jupyter Notebook "ndvi_analysis.ipynb".
-2. Organice las carpetas de trabajo utilizando los archivos proporcionados (ver sección “Setup”).
-3. Complete el setup de instalación y verifique que las librerías necesarias estén instaladas correctamente. La primera celda de código del notebook debe ejecutarse sin problemas.
-4. Consulte la documentación de las librerías en la sección “Setup” para familiarizarse con las herramientas que se utilizarán durante el workshop.
-5. Nos vemos en el Paso a Paso para Realizar Análisis Geoespaciales.
+1.  Abra el Jupyter Notebook "ndvi_analysis.ipynb".
+2.  Organice las carpetas de trabajo utilizando los archivos proporcionados (ver sección “Setup”).
+3.  Complete el setup de instalación y verifique que las librerías necesarias estén instaladas correctamente. La primera celda de código del notebook debe ejecutarse sin problemas.
+4.  Consulte la documentación de las librerías en la sección “Setup” para familiarizarse con las herramientas que se utilizarán durante el workshop.
+5.  Nos vemos en el Paso a Paso para Realizar Análisis Geoespaciales.
