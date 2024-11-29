@@ -8,7 +8,9 @@ Para obtener los archivos necesarios para el workshop, sigue estos pasos:
 
 2.	Navega al directorio donde deseas clonar el repositorio:
 
-# Antes del Primer Encuentro:
+    `cd /ruta/deseada/`
+
+## Antes del Primer Encuentro:
 
 1. Abra el Jupyter Notebook "ndvi_analysis.ipynb".
 2. Organice las carpetas de trabajo utilizando los archivos proporcionados (ver sección “Setup”).
