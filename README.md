@@ -5,10 +5,11 @@
 Para obtener los archivos necesarios para el workshop, sigue estos pasos:
 
 1.  Abre una terminal en tu computadora.
-
 2.	Navega al directorio donde deseas clonar el repositorio:
-
     `cd /ruta/deseada/`
+3.	Clona el repositorio usando el siguiente comando:
+    `git clone https://github.com/LuchoGabba/stucom_workshop.git`
+
 
 ## Antes del Primer Encuentro:
 
