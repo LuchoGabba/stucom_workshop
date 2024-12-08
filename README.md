@@ -11,6 +11,7 @@ Para obtener los archivos necesarios para el workshop, sigue estos pasos:
     `git clone https://github.com/LuchoGabba/stucom_workshop.git`
 4.	Cambia al directorio del repositorio:\
     `cd stucom_workshop`
+5. Sería ideal que crees una rama propia donde trabajar tu código.
 
 Alternativamente, puedes descargar el repositorio como un **ZIP Zile**:
 
