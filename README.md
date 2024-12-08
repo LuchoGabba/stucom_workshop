@@ -9,7 +9,7 @@ Para obtener los archivos necesarios para el workshop, sigue estos pasos:
     `cd /ruta/deseada/`
 3.	Clona el repositorio usando el siguiente comando:\
     `git clone https://github.com/LuchoGabba/stucom_workshop.git`
-4.	Cambia al directorio del repositorio:\
+4.	Cambia al directorio del repositorio:
     `cd stucom_workshop`
 5. Sería ideal que crees una rama propia donde trabajar tu código.
 
