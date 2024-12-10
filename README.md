@@ -1,5 +1,8 @@
 # Clonar Repositorio y Preparar Entorno
 
+https://docs.google.com/presentation/d/1fB1X6gLhgzas4C0HlyMuckwPHvuKKUfiQofA_AxCf5I/edit?usp=sharing
+
+
 ## Clonar Repositorio
 
 Para obtener los archivos necesarios para el workshop, sigue estos pasos:
