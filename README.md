@@ -31,8 +31,9 @@ Organiza el espacio de trabajo:
 4.  Consulte la documentación de las librerías en la sección “Setup” para familiarizarse con las herramientas que se utilizarán durante el workshop.
 5. Si tienes dudas puedes consultarlas con http://www.linkedin.com/in/luciano-gabbanelli o enviar un correo a lucianogabbanelli@gmail.com. 
 
-**Nos vemos en el Paso a Paso para Realizar Análisis Geoespaciales.**
 
 ## Slides
 
 https://docs.google.com/presentation/d/1fB1X6gLhgzas4C0HlyMuckwPHvuKKUfiQofA_AxCf5I/edit?usp=sharing
+
+**Nos vemos en el Paso a Paso para Realizar Análisis Geoespaciales.**
