@@ -1,8 +1,5 @@
 # Clonar Repositorio y Preparar Entorno
 
-https://docs.google.com/presentation/d/1fB1X6gLhgzas4C0HlyMuckwPHvuKKUfiQofA_AxCf5I/edit?usp=sharing
-
-
 ## Clonar Repositorio
 
 Para obtener los archivos necesarios para el workshop, sigue estos pasos:
@@ -35,3 +32,7 @@ Organiza el espacio de trabajo:
 5. Si tienes dudas puedes consultarlas con http://www.linkedin.com/in/luciano-gabbanelli o enviar un correo a lucianogabbanelli@gmail.com. 
 
 **Nos vemos en el Paso a Paso para Realizar Análisis Geoespaciales.**
+
+## Slides
+
+https://docs.google.com/presentation/d/1fB1X6gLhgzas4C0HlyMuckwPHvuKKUfiQofA_AxCf5I/edit?usp=sharing
