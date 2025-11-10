@@ -29,7 +29,7 @@ Organiza el espacio de trabajo:
 2.  Organice las carpetas de trabajo utilizando los archivos proporcionados (ver sección “Setup”).
 3.  Complete el setup de instalación y verifique que las librerías necesarias estén instaladas correctamente. La primera celda de código del notebook debe ejecutarse sin problemas.
 4.  Consulte la documentación de las librerías en la sección “Setup” para familiarizarse con las herramientas que se utilizarán durante el workshop.
-5. Si tienes dudas puedes consultarlas con http://www.linkedin.com/in/luciano-gabbanelli o enviar un correo a lucianogabbanelli@gmail.com. 
+5. Si tienes dudas puedes consultarlas con http://www.linkedin.com/in/luciano-gabbanelli. 
 
 
 ## Slides
