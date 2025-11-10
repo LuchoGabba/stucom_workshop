@@ -34,6 +34,6 @@ Organiza el espacio de trabajo:
 
 ## Slides
 
-https://docs.google.com/presentation/d/1fB1X6gLhgzas4C0HlyMuckwPHvuKKUfiQofA_AxCf5I/edit?usp=sharing
+https://docs.google.com/presentation/d/1pKs0polgyAhmPKmPYP6BcTqH6Aqe-amQFfXJ4HLvq9s/edit?usp=sharing
 
 **Nos vemos en el Paso a Paso para Realizar Análisis Geoespaciales.**
