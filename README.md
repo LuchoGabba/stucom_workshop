@@ -26,7 +26,7 @@ Alternativamente, puedes descargar el repositorio como un **ZIP Zile**:
 Organiza el espacio de trabajo:
 
 1.  Abra el Jupyter Notebook "ndvi_analysis.ipynb".
-2.  Organice las carpetas de trabajo utilizando los archivos proporcionados (ver sección “Setup”).
+2.  Organice las carpetas de trabajo utilizando los archivos proporcionados (ver sección “Setup” del Notebook).
 3.  Complete el setup de instalación y verifique que las librerías necesarias estén instaladas correctamente. La primera celda de código del notebook debe ejecutarse sin problemas.
 4.  Consulte la documentación de las librerías en la sección “Setup” para familiarizarse con las herramientas que se utilizarán durante el workshop.
 5. Si tienes dudas puedes consultarlas con http://www.linkedin.com/in/luciano-gabbanelli. 
