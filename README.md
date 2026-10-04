@@ -13,23 +13,34 @@ Para obtener los archivos necesarios para el workshop, sigue estos pasos:
     `cd stucom_workshop`
 5. Sería ideal que crees una rama propia donde trabajar tu código.
 
-Alternativamente, puedes descargar el repositorio como un **ZIP Zile**:
+Alternativamente, puedes descargar el repositorio como un **ZIP File**:
 
 1.  Accede al GitHub del repositorio:\
-    `git clone https://github.com/LuchoGabba/stucom_workshop.git`
+    https://github.com/LuchoGabba/stucom_workshop
 2.	Presiona el botón verde `<> Code`
 3.  Selecciona `Download ZIP`
 
 
-## Antes del Primer Encuentro
+## Instalar Dependencias
 
-Organiza el espacio de trabajo:
+Los paquetes de Python que usan todos los notebooks del taller están en el archivo `requirements.txt`. Necesitas Python 3.10 o superior.
 
-1.  Abra el Jupyter Notebook "ndvi_analysis.ipynb".
-2.  Organice las carpetas de trabajo utilizando los archivos proporcionados (ver sección “Setup” del Notebook).
-3.  Complete el setup de instalación y verifique que las librerías necesarias estén instaladas correctamente. La primera celda de código del notebook debe ejecutarse sin problemas.
-4.  Consulte la documentación de las librerías en la sección “Setup” para familiarizarse con las herramientas que se utilizarán durante el workshop.
-5.  Si tienes dudas puedes consultarlas con http://www.linkedin.com/in/luciano-gabbanelli. 
+1.  Abre una terminal en la carpeta del repositorio (`stucom_workshop`).
+2.  Crea un entorno virtual y actívalo (recomendado, para no mezclar estos paquetes con los de otros proyectos):
+    - macOS / Linux:\
+      `python3 -m venv .venv`\
+      `source .venv/bin/activate`
+    - Windows (PowerShell):\
+      `python -m venv .venv`\
+      `.venv\Scripts\Activate.ps1`
+    - Si usas conda:\
+      `conda create -n taller python=3.11`\
+      `conda activate taller`
+3.  Instala las dependencias:\
+    `pip install -r requirements.txt`
+4.  Abre los notebooks con `jupyter lab`, o desde VS Code eligiendo como kernel el entorno que acabas de crear.
+
+Cada vez que vuelvas a trabajar, activa de nuevo el entorno (paso 2, solo la línea de activación) antes de abrir los notebooks.
 
 
 ## Slides
@@ -37,3 +48,8 @@ Organiza el espacio de trabajo:
 https://docs.google.com/presentation/d/1pKs0polgyAhmPKmPYP6BcTqH6Aqe-amQFfXJ4HLvq9s/edit?usp=sharing
 
 **Nos vemos en el Paso a Paso para Realizar Análisis Geoespaciales.**
+
+
+## Contacto
+
+Si tienes dudas puedes consultarlas con http://www.linkedin.com/in/luciano-gabbanelli.

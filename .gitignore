@@ -8,3 +8,6 @@ tp_1/data/fechas.json
 
 # Checkpoints temporales
 .ipynb_checkpoints/
+
+# Entorno virtual de Python
+.venv/
