@@ -1,10 +1,8 @@
 # Ignore macOS system files
 .DS_Store
 
-# SentinelHub outputs
-tp_1/data/*/response.tiff
-tp_1/data/*/request.json
-tp_1/data/fechas.json
+# SentinelHub outputs (imágenes descargadas y fechas elegidas)
+tp_1/data/
 
 # Checkpoints temporales
 .ipynb_checkpoints/
